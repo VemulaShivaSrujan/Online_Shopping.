@@ -1,0 +1,19 @@
+'OnlineShoppingSystem' 
+Enter customer name: nani
+Enter customer ID: 52552
+Enter savings account number: 2552253553
+Enter initial savings balance: 66622
+Enter interest rate for savings: 55333
+Enter checking account number: 56752
+Enter initial checking balance: 343443
+Enter overdraft limit for checking: 24442
+Enter deposit amount for savings: 5535
+Deposited $5535.0. New Balance: $72157.0
+Deposited $3.992663281E9. New Balance: $3.992735438E9
+Interest added: $3.992663281E9. New Balance: $3.992735438E9
+Enter withdrawal amount for checking: 6663
+Deposit amount must be positive.
+Withdrawn $6663.0. New Balance: $343443.0
+Account Balance: $3.992735438E9
+Account Balance: $343443.0
+ 
